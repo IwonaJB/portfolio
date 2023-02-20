@@ -529,7 +529,7 @@ Co robi * postawiona za SELECTem w zapytaniach SQLowych?
 </blockquote>
 <p align="justify">Postawiona za SELECTem * służy do zaznaczenia, iż z wybranej bazy (np. bazy klientów) mają zostać wyświetlone wszystkie znajdujące się w niej tabele.</p>
 
-<a href="#6sub1">Task 6, Subtask 1 - opowiedzi na pytania przy wykorzystaniu SQL</a><br>
+<h2 id="6sub1">Task 6, Subtask 1 - opowiedzi na pytania przy wykorzystaniu SQL</h2>
 
 <ol>
 <li><blockquote cite="Pati">
