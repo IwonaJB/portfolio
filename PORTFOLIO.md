@@ -5,7 +5,7 @@
 <p>Moje portfolio na podstawie Dare IT challenge dla testerów manualnych.</p>
 
 <p><b>Spis treści</p></b>
-<h3>Task 1<h3>
+<h3>Task 1</h3>
 <a href="#sub1">Task 1, Subtask 1 - wynik kartkówki z wiedzy teoretycznej</a><br>
 <a href="#sub3">Task 1, Subtask 3 - o mnie!</a><br>
 <a href="#sub4">Task 1, Subtask 4 - testy eksploracyjne aplikacji internetowej Scouts Panel</a><br>
